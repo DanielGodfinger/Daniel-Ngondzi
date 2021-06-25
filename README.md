@@ -5,7 +5,7 @@ Collected, merged, and visualized raw data from excel sheet of data creating int
 
 ![](/images/Dashboard.png)
 
-# [Built Data Model](/source/Database Model.mwb)
+# [Built Data Model](/source/Database%20Model.mwb)
 Organized elements of data and standardized how they relate to one another and to the properties of real-world entities using MySQL workbench.
 
 ![](/images/data%20model%202.png)
