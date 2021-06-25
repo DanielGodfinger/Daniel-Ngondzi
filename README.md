@@ -1,7 +1,7 @@
 # Daniel Ngondzi Personel Projects
 Welcome!
 <p>Here is the list of all my recent projects</p>
-  <i><h6>You can download the source files by clicking on the project title</h3></i>
+  <i><h6>You can download the source files by clicking on the project title</h6></i>
 # [Data reporting](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/source/Business%20Analysis(Dashboard_report).xlsx)
 Collected, merged, and visualized raw data from excel sheet of data creating interactive dashboard using pivot tables and pivot charts.
 
