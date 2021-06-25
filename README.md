@@ -5,9 +5,10 @@ Collected, merged, and visualized raw data from excel sheet of data creating int
 [](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/Dashboard.png)
 [](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/Dashboard1.png)
 [](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/Dashboard2.png)
+
 # [Built Data Model](https://github.com/DanielGodfinger/danielportfolio.io)
 Organized elements of data and standardized how they relate to one another and to the properties of real-world entities using MySQL workbench.
-[](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/Data Model.png)
+[](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/Data%20Model.png)
 [](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/data model 1.png)
 [](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/images/data model 2.png)
 
