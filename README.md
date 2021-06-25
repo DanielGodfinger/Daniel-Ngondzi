@@ -1,11 +1,11 @@
 # danielportfolio.io
 See my recent projects
-# [Data reporting](https://github.com/DanielGodfinger/danielportfolio.io)
+# [Data reporting](/source/Business%20Analysis(Dashboard_report).xlsx)
 Collected, merged, and visualized raw data from excel sheet of data creating interactive dashboard using pivot tables and pivot charts.
 
 ![](/images/Dashboard.png)
 
-# [Built Data Model](/Source/Database Model.mwb)
+# [Built Data Model](/source/Database Model.mwb)
 Organized elements of data and standardized how they relate to one another and to the properties of real-world entities using MySQL workbench.
 
 ![](/images/data%20model%202.png)
