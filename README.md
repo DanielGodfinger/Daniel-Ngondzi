@@ -1,11 +1,11 @@
-# WELCOME TO MY PORTFOLIO WEBSITE
-Program content
->YEAR 1
-Business Mathematics or Calculus I (Business Applications)
-Select one of the following:
 
-Business Statistics
-Statistics I
+# Diploma in computer Information systems
+
+>YEAR 1
+
+- Business Mathematics
+- Business Statistics
+- Statistics I
 - Introduction to Statistics for Business
 - Introduction to Computer Hardware and Software
 - Principles of Program Structure and Design I
