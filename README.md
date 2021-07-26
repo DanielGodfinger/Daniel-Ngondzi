@@ -6,28 +6,28 @@ Select one of the following:
 
 Business Statistics
 Statistics I
--Introduction to Statistics for Business
--Introduction to Computer Hardware and Software
--Principles of Program Structure and Design I
--Systems Analysis and Design
--Operating Systems Principles And Applications
--Networking Technologies I
--Web Application Development
--Discrete Mathematics for Information Technology
--Introduction to Formal Logic
+- Introduction to Statistics for Business
+- Introduction to Computer Hardware and Software
+- Principles of Program Structure and Design I
+- Systems Analysis and Design
+- Operating Systems Principles And Applications
+- Networking Technologies I
+- Web Application Development
+- Discrete Mathematics for Information Technology
+- Introduction to Formal Logic
 
 >YEAR 2
 
--Fundamentals of Business in Canada3
--Introduction to Professional Communication
--Introduction to University Writing
--Networking Technologies II
--Database Management Systems
--Object-Oriented Programming
--Data Structure
--Foundations of Computer Security
--System Development Project
--Server Operating Systems
+- Fundamentals of Business in Canada3
+- Introduction to Professional Communication
+- Introduction to University Writing
+- Networking Technologies II
+- Database Management Systems
+- Object-Oriented Programming
+- Data Structure
+- Foundations of Computer Security
+- System Development Project
+- Server Operating Systems
 
 ## ACADEMIC PROJECTS
   <h6><i>You can download the source files by clicking on the project title</i></h6>
