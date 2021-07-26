@@ -1,5 +1,5 @@
 # WELCOME TO MY PORTFOLIO WEBSITE
-## Academic projects
+## ACADEMIC PROJECTS
   <h6><i>You can download the source files by clicking on the project title</i></h6>
   
 >> [Data reporting](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/source/Business%20Analysis(Dashboard_report).xlsx)
@@ -18,6 +18,6 @@
 >
 > Scraping Data from Donald Trump's Twitter and creating visualizations with it using tweeter scraper and NLP
 > 
->> [Portfolio website]
+>> [Portfolio website
 > Currently Working on my portfolio website using HTML5, CSS and JavaScript
 
