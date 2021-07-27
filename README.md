@@ -30,6 +30,7 @@
 - Server Operating Systems
 
 # TRAININGS AND CERTIFICATE
+
 > - CISCO
 > - CISCO
 > - IBM
@@ -38,9 +39,10 @@
 > - GOOGLE SEO
 
 # ACADEMIC PROJECTS
+
   <h6><i>You can download the source files by clicking on the project title</i></h6>
   
->> [Data reporting](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/source/Business%20Analysis(Dashboard_report).xlsx)
+> [Data reporting](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/source/Business%20Analysis(Dashboard_report).xlsx)
 >
 >
 >Collected, merged, and visualized raw data from excel sheet of data creating interactive dashboard using pivot tables and pivot charts.
