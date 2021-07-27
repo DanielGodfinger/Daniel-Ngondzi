@@ -36,7 +36,8 @@
 > - GOOGLE ADS
 > - GOOGLE ANALYICS
 > - GOOGLE SEO
-## ACADEMIC PROJECTS
+
+# ACADEMIC PROJECTS
   <h6><i>You can download the source files by clicking on the project title</i></h6>
   
 >> [Data reporting](https://github.com/DanielGodfinger/danielportfolio.io/blob/main/source/Business%20Analysis(Dashboard_report).xlsx)
