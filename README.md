@@ -31,7 +31,7 @@
 
 > SKILLS
 
-- Languages: HTML5, JavaScript, SQL, PHP
+- Languages: HTML5, JavaScript, SQL, PHP, Phython
 
 - Softwares: PowerPoint, Excel, Access, SPSS, MySQL, SQL Server
   Tableau, Power BI
