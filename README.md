@@ -1,7 +1,7 @@
 
 # Diploma in computer Information systems
 
->YEAR 1
+> YEAR 1
 
 - Business Mathematics
 - Business Statistics
@@ -16,7 +16,7 @@
 - Discrete Mathematics for Information Technology
 - Introduction to Formal Logic
 
->YEAR 2
+> YEAR 2
 
 - Fundamentals of Business
 - Introduction to Professional Communication
@@ -29,11 +29,28 @@
 - System Development Project
 - Server Operating Systems
 
+> SKILLS
+
+- Languages: HTML5, JavaScript, SQL, PHP
+
+- Softwares: PowerPoint, Excel, Access, SPSS, MySQL, SQL Server
+  Tableau, Power BI
+
+> Technical Skills:
+- Project Management
+- Business Communication
+-	Database design and management 
+- Systems analysis and design
+- Network administration
+- Web design and development
+
+
 # TRAININGS AND CERTIFICATE
 
-> - CISCO
-> - CISCO
-> - IBM
+> - CISCO CYBER SECURITY
+> - CISCO NEWTORKING ADMINISTRATION
+> - CISCO ENTREPRENEURSHIP
+> - IBM HTLM5 AND CSS
 > - GOOGLE ADS
 > - GOOGLE ANALYICS
 > - GOOGLE SEO
