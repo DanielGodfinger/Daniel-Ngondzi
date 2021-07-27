@@ -47,6 +47,13 @@
 
 # TRAININGS AND CERTIFICATE
 
+> ONLINE MARKETING,MARCH 2019-PRESENT
+> - Keyword Research: Used ahrefs marketing tool to gather and analyze 500+ keywords my own website
+> - Content creation: Created 7 SEO- friendly articles for a potential dental implant website
+> - Search Engine Optimization: Optimized 3 pages using Page optimizer Pro, Elementor and Marketing 360
+> - Web Publishing: Explored wordPress, Winx, and journal content Management Systems,made 2 peaces of content on CMS
+
+
 > - CISCO CYBER SECURITY
 > - CISCO NEWTORKING ADMINISTRATION
 > - CISCO ENTREPRENEURSHIP
@@ -77,3 +84,4 @@
 > 
 >> **Portfolio website**
 > Currently Working on my portfolio website using HTML5, CSS and JavaScript
+
