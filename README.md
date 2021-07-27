@@ -18,7 +18,7 @@
 
 >YEAR 2
 
-- Fundamentals of Business in Canada3
+- Fundamentals of Business
 - Introduction to Professional Communication
 - Introduction to University Writing
 - Networking Technologies II
@@ -29,6 +29,13 @@
 - System Development Project
 - Server Operating Systems
 
+# TRAININGS AND CERTIFICATE
+> - CISCO
+> - CISCO
+> - IBM
+> - GOOGLE ADS
+> - GOOGLE ANALYICS
+> - GOOGLE SEO
 ## ACADEMIC PROJECTS
   <h6><i>You can download the source files by clicking on the project title</i></h6>
   
