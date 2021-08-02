@@ -53,7 +53,7 @@
 > - Search Engine Optimization: Optimized 3 pages using Page optimizer Pro, Elementor and Marketing 360
 > - Web Publishing: Explored wordPress, Winx, and journal content Management Systems,made 2 peaces of content on CMS
 
-
+> - Professional Skills: Solving Problems with Critical and Creative Thinking (IBM)
 > - CISCO CYBER SECURITY
 > - CISCO NEWTORKING ADMINISTRATION
 > - CISCO ENTREPRENEURSHIP
